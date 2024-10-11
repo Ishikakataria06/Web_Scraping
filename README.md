@@ -37,6 +37,7 @@ There are various tools and libraries available for web scraping, each with its 
 This repository contains the following scripts for web scraping:
 
 [BeautifulSoup_Scraping.py](https://github.com/Ishikakataria06/Web_Scraping/blob/main/Web%20Scarping%20using%20BeautifulSoup.py): A script that demonstrates how to use BeautifulSoup to scrape data from static web pages.
+
 [Selenium_Scraping.py](https://github.com/Ishikakataria06/Web_Scraping/blob/main/Web_Scraping_using_Selenium.py): A script that demonstrates how to use Selenium to scrape data from dynamic web pages.
 
 
