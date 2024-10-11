@@ -19,6 +19,7 @@ There are various tools and libraries available for web scraping, each with its 
 
 - **Description**: BeautifulSoup is a Python library that provides simple methods and Pythonic idioms for navigating, searching, and modifying the parse tree of HTML or XML documents.
 - **Use Cases**: Ideal for scraping static web pages where the content is available in the HTML source. It works best when combined with requests to fetch the page content.
+
 - **Installation**: 
   ```bash
   pip install beautifulsoup4
