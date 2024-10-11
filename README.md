@@ -27,6 +27,7 @@ There are various tools and libraries available for web scraping, each with its 
 ### 2.Selenium
 - **Description**: Selenium is a web automation tool that allows you to control a web browser programmatically. It is particularly useful for scraping dynamic web pages where content is loaded via JavaScript.
 - **Use Cases**: Best suited for scraping websites that require interaction (like clicking buttons or filling forms) or that have dynamic content that is rendered after the page load.
+- 
 -**Installation**:
   ```bash
   pip install selenium
